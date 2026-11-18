@@ -1,1 +1,2 @@
 # bivariate-map
+This map shows all of the Airbnb locations within Buncombe County. The individual point symbols are color coded by the type of rental they are: an entire house, a room in a house, or something else entirely. You can click on the point symbols for more information. The polygon symbols are colored according to the amount of Airbnb's located within their boundaries, with darker being more. 
